@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "329E1E6A25FACADA0041B23E"
+               BuildableName = "package-ios-shapefile-converter-podTests.xctest"
+               BlueprintName = "package-ios-shapefile-converter-podTests"
+               ReferencedContainer = "container:package-ios-shapefile-converter-pod.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference>
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "329E1E6A25FACADA0041B23E"
+               BuildableName = "package-ios-shapefile-converter-podTests.xctest"
+               BlueprintName = "package-ios-shapefile-converter-podTests"
+               ReferencedContainer = "container:package-ios-shapefile-converter-pod.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      allowLocationSimulation = "YES">
+   </LaunchAction>
+</Scheme>

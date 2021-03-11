@@ -4,18 +4,22 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>package-ios-shapefile-converter-pod.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-		<key>package_ios_shapefile_converter_podTests.xcscheme</key>
+		<key>Pods-package-ios-shapefile-converter-pod-package-ios-shapefile-converter-podTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false />
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-package-ios-shapefile-converter-pod.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict />
 </dict>
 </plist>

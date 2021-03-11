@@ -1,0 +1,6 @@
+framework module Pods_package_ios_shapefile_converter_pod {
+  umbrella header "Pods-package-ios-shapefile-converter-pod-umbrella.h"
+
+  export *
+  module * { export * }
+}
