@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary = "Shapefile converter based on GDAL."
   s.requires_arc = true
   
-  s.version = "0.0.8"
+  s.version = "0.0.9"
   
   s.license = { :type => 'Custom', :text => 'Created and licensed by Syngenta. Copyright 2021 Syngenta. All rights reserved.' } 
   
@@ -21,6 +21,7 @@ Pod::Spec.new do |s|
 
   s.swift_version = "4.2"
 
+  s.static_framework = true
   s.dependency "GDALiOSLite"
   
 end
