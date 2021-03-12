@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
 
   s.platform = :ios
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.name = "package-ios-shapefile-converter-pod"
   s.summary = "Shapefile converter based on GDAL."
   s.requires_arc = true
   
-  s.version = "0.0.5"
+  s.version = "0.0.6"
   
   s.license = { :type => 'Custom', :text => 'Created and licensed by Syngenta. Copyright 2021 Syngenta. All rights reserved.' } 
   
