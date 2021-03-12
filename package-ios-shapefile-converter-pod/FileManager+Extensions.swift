@@ -4,7 +4,7 @@
 
 import Foundation
 
-extension FileManager {
+public extension FileManager {
 
     static let shapefileExtensions = ["dbf", "prj", "shp", "shx"]
 
