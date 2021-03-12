@@ -11,6 +11,7 @@
 		329E1E7125FACADA0041B23E /* package_ios_shapefile_converter_podTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329E1E7025FACADA0041B23E /* package_ios_shapefile_converter_podTests.swift */; };
 		329E1E7325FACADA0041B23E /* package_ios_shapefile_converter_pod.h in Headers */ = {isa = PBXBuildFile; fileRef = 329E1E6525FACADA0041B23E /* package_ios_shapefile_converter_pod.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8A9A1D07DDCCDFC3DA32BDCF /* FileManager+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A1C0EE3A0895C9148ED8B /* FileManager+Extensions.swift */; };
+		8A9A1ED789A72A0E919F63A7 /* GDALManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A1500F2E580FF9B10C529 /* GDALManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +31,7 @@
 		329E1E6B25FACADA0041B23E /* package-ios-shapefile-converter-podTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "package-ios-shapefile-converter-podTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		329E1E7025FACADA0041B23E /* package_ios_shapefile_converter_podTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = package_ios_shapefile_converter_podTests.swift; sourceTree = "<group>"; };
 		329E1E7225FACADA0041B23E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A9A1500F2E580FF9B10C529 /* GDALManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GDALManager.swift; sourceTree = "<group>"; };
 		8A9A1C0EE3A0895C9148ED8B /* FileManager+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FileManager+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -76,6 +78,7 @@
 				329E1E6525FACADA0041B23E /* package_ios_shapefile_converter_pod.h */,
 				329E1E6625FACADA0041B23E /* Info.plist */,
 				8A9A1C0EE3A0895C9148ED8B /* FileManager+Extensions.swift */,
+				8A9A1500F2E580FF9B10C529 /* GDALManager.swift */,
 			);
 			path = "package-ios-shapefile-converter-pod";
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A9A1D07DDCCDFC3DA32BDCF /* FileManager+Extensions.swift in Sources */,
+				8A9A1ED789A72A0E919F63A7 /* GDALManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

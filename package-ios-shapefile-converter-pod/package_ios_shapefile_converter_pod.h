@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "gdal.h"
 
 //! Project version number for package_ios_shapefile_converter_pod.
 FOUNDATION_EXPORT double package_ios_shapefile_converter_podVersionNumber;
